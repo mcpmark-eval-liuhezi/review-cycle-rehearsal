@@ -1,0 +1,4 @@
+- [ ] Diff covers only the announced scope
+- [ ] Rollback step documented
+- [ ] CI green on the head commit
+- [ ] Sign-off recorded in the review
